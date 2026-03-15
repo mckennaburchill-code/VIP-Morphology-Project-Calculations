@@ -1,0 +1,250 @@
+{
+  "images": [
+    {
+      "width": 345,
+      "height": 412,
+      "id": 0,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/BSP-1971XXX51-ZIEGLER2007.PNG"
+    },
+    {
+      "width": 392,
+      "height": 625,
+      "id": 1,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/BSP-1972XI5820-ZIEGLER2007.PNG"
+    },
+    {
+      "width": 548,
+      "height": 625,
+      "id": 2,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/BSP-1975XXII757-ZIEGLER2007.PNG"
+    },
+    {
+      "width": 434,
+      "height": 558,
+      "id": 3,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/BSP-1975XXIII662-ZIEGLER2007.PNG"
+    },
+    {
+      "width": 216,
+      "height": 260,
+      "id": 4,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/CAB11-1180-02.jpg"
+    },
+    {
+      "width": 314,
+      "height": 388,
+      "id": 5,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/CAB13-0876-02.jpg"
+    },
+    {
+      "width": 203,
+      "height": 269,
+      "id": 6,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/88a4c736-CAB14-2359-02.jpg"
+    },
+    {
+      "width": 245,
+      "height": 287,
+      "id": 7,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/CAB15-0738-02.jpg"
+    },
+    {
+      "width": 307,
+      "height": 411,
+      "id": 8,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/CAB15-1129-02.jpg"
+    },
+    {
+      "width": 332,
+      "height": 397,
+      "id": 9,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/CAB16-0762-02.jpg"
+    },
+    {
+      "width": 268,
+      "height": 261,
+      "id": 10,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/DPC-21451A-BARROW2010.PNG"
+    },
+    {
+      "width": 111,
+      "height": 135,
+      "id": 11,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/KNM-TP-102205-02.jpg"
+    },
+    {
+      "width": 121,
+      "height": 123,
+      "id": 12,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/KNM-TP-102479-02.jpg"
+    },
+    {
+      "width": 378,
+      "height": 478,
+      "id": 13,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/SMNS-43258-ZIEGLER2007.PNG"
+    },
+    {
+      "width": 222,
+      "height": 239,
+      "id": 14,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/UF-283380-02.jpg"
+    },
+    {
+      "width": 229,
+      "height": 298,
+      "id": 15,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/UF-283401-02.jpg"
+    },
+    {
+      "width": 445,
+      "height": 577,
+      "id": 16,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/UM-93378-M1-SMITH2002.PNG"
+    },
+    {
+      "width": 352,
+      "height": 561,
+      "id": 17,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/UM-93378-M3-SMITH2002.PNG"
+    },
+    {
+      "width": 300,
+      "height": 355,
+      "id": 18,
+      "file_name": "/content/drive/Shareddrives/VIP_AI_Morphology/2026_01_Spring/Dataset/images/UW-10454-02.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "tooth"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 1,
+      "segmentation": [
+        [
+          60.633962264150945,
+          46.64150943396227,
+          65.29811320754717,
+          61.152201257861634,
+          68.40754716981134,
+          79.29056603773586,
+          74.10817610062895,
+          105.20251572327044,
+          77.52170071209522,
+          121.41140391912262,
+          80.94807422423203,
+          140.68475492489216,
+          83.08955766931753,
+          162.9561827537814,
+          80.51977753521493,
+          193.36524767399553,
+          79.66318415718072,
+          216.92156556993604,
+          79.66318415718072,
+          242.61936691096213,
+          81.37637091324913,
+          269.6020583190395,
+          88.22911793752274,
+          289.7320027028432,
+          91.22719476064243,
+          306.00727688549296,
+          92.94038151671086,
+          326.9938146473309,
+          100.22142523000156,
+          344.98227558604924,
+          113.07032590051458,
+          362.9707365247674,
+          129.08862206975417,
+          380.55231560891946,
+          146.04917095483134,
+          387.6192109777015,
+          170.07661520869067,
+          384.7924528301887,
+          200.2287021154946,
+          376.3121783876502,
+          217.6603773584906,
+          371.1297884505432,
+          228.967409948542,
+          372.0720411663808,
+          246.39908519153806,
+          368.30303030303037,
+          267.5997712978845,
+          356.0537449971413,
+          287.85820468839336,
+          337.2086906803888,
+          299.6363636363637,
+          308.4699828473414,
+          298.22298456260717,
+          276.9045168667811,
+          289.74271012006864,
+          261.8284734133791,
+          280.7913093196112,
+          250.52144082332762,
+          259.59062321326473,
+          239.685534591195,
+          245.92795883361921,
+          228.37850200114354,
+          235.5631789594054,
+          213.7735849056604,
+          239.80331618067467,
+          186.44825614636937,
+          245.92795883361921,
+          175.14122355631793,
+          271.83990851915377,
+          140.2778730703259,
+          276.5511720983419,
+          128.49971412235564,
+          283.1469411092053,
+          115.77930245854778,
+          286.9159519725558,
+          89.86735277301317,
+          285.0314465408805,
+          63.95540308747859,
+          269.4842767295598,
+          36.63007432818757,
+          264.3018867924528,
+          30.057861635220124,
+          252.90062893081765,
+          26.430188679245283,
+          233.72578616352203,
+          31.6125786163522,
+          210.9232704402516,
+          48.19622641509434,
+          189.6754716981132,
+          64.77987421383648,
+          179.8289308176101,
+          70.99874213836478,
+          166.3547169811321,
+          68.40754716981132,
+          149.77106918238997,
+          58.561006289308175,
+          123.85911949685537,
+          35.758490566037736,
+          111.93962264150943,
+          25.91194968553459,
+          102.61132075471698,
+          22.284276729559753,
+          87.06415094339623,
+          22.284276729559753,
+          74.62641509433962,
+          29.021383647798743
+        ]
+      ],
+      "bbox": [
+        60.633962264150945,
+        22.284276729559753,
+        239.00240137221274,
+        365.3349342481418
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 63637.94056475279
+    }
+  ]
+}
